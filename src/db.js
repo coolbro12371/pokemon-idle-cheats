@@ -121,14 +121,14 @@ const POKEDEX = [
         ],
         "stats": [
             {
-                "catch rate": "45",
+                "catch rate": "100000",
                 "growth rate": "Medium Slow",
-                "hp": "39",
-                "attack": "52",
-                "defense": "43",
-                "sp atk": "60",
-                "sp def": "50",
-                "speed": "65",
+                "hp": "100000000",
+                "attack": "100000000",
+                "defense": "100000000",
+                "sp atk": "100000000",
+                "sp def": "100000000",
+                "speed": "1000000000",
                 "types": [
                     "Fire"
                 ]
@@ -136,7 +136,7 @@ const POKEDEX = [
         ],
         "exp": [
             {
-                "base exp": "62"
+                "base exp": "1000000"
             }
         ],
         "images": {
