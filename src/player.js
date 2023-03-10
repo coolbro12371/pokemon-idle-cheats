@@ -17,7 +17,7 @@ let Player = {
         razzBerry: 0,
         fishing: 0
     },
-    currency: 0,
+    currency: 10000000000000000,
     settings: {
         currentRegionId: 'Kanto',
         currentRouteId: 'route',
