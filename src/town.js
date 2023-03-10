@@ -17,7 +17,7 @@ let Town = {
         },
         {
             name: 'Ultraball',
-            cost: 1000,
+            cost: 0,
             ball: 'ultraball'
         },
         {
