@@ -53,7 +53,7 @@ let Player = {
         'ultraballThrows':0,
         'ultraballSuccessfulThrows':0,
         'totalCurrency': 0,
-        'totalExp': 0
+        'totalExp': 100000
     },
     badges: {},
     purgeData: false,
